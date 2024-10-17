@@ -7,7 +7,7 @@ Programming in E(易语言) http://www.dywt.com.cn/
 
 **Attention Read line by line && ONLY SUPPORT ANSI**
 
-![IMAGE]([https://github.com/In-clude/Text-comparison-tool/blob/master/image/logic.gif?raw=true](https://github.com/In-clude/In-clude-Text-comparison-tool/blob/main/image0.jpg?raw=true))
+![IMAGE](https://raw.githubusercontent.com/In-clude/In-clude-Text-comparison-tool/refs/heads/main/image0.jpg)
  
  
 ### Text-comparison-tool 2.0
