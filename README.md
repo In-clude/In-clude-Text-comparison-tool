@@ -12,9 +12,9 @@ Programming in E(易语言) http://www.dywt.com.cn/
  
 ### Text-comparison-tool 2.0
 ***
-支持unicode
+SUPPORT UNICODE
 
-使用前先安装python (https://www.python.org/)
+Before using, install Python. (https://www.python.org/)
 
 [Download](https://github.com/In-clude/In-clude-Text-comparison-tool/blob/main/nohomework_simple.py)
 
